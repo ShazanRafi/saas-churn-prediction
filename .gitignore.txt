@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Data (never push datasets)
+data/
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional but recommended for ML projects)
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
