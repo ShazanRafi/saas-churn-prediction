@@ -2,7 +2,7 @@
 venv/
 env/
 
-# Data (never push datasets)
+# Data
 data/
 *.csv
 *.xlsx
@@ -15,10 +15,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Model files (optional but recommended for ML projects)
+# Model files
 *.pkl
 *.joblib
-
-# OS files
-.DS_Store
-Thumbs.db
