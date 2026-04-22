@@ -2,10 +2,10 @@
 venv/
 env/
 
-# Data
-data/
-*.csv
-*.xlsx
+# # Data
+# data/
+# *.csv
+# *.xlsx
 
 # Python cache
 __pycache__/
